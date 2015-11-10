@@ -1,4 +1,4 @@
-c class Calculator {
+class Calculator {
 public static double getSum(double [] num) {
 double sum=0.0;
 for(int g=0; g<num.length; g++) {
